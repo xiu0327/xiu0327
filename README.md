@@ -3,6 +3,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiu0327)](https://github.com/anuraghazra/github-readme-stats)
 
+😼 내가 될까? 생각하기 보단 일단 해보고 보는 인간, 그래서 언제나 뒷수습은 온전히 나의 몫..
+🖥 [velog](https://velog.io/@xiu0327)
+
 <!--
 **xiu0327/xiu0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
