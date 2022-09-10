@@ -8,8 +8,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiu0327)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🖥 [velog](https://velog.io/@xiu0327)
-
 📩 e-mail : codinging0326@gmail.com
 <!--
 **xiu0327/xiu0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
