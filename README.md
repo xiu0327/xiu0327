@@ -9,6 +9,8 @@
 
 
 📩 e-mail : codinging0326@gmail.com
+👩‍💻 blog : https://velog.io/@xiu0327
+
 <!--
 **xiu0327/xiu0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
