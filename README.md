@@ -5,7 +5,7 @@
 
 
 📩 e-mail : codinging0326@gmail.com
-👩‍💻 blog : https://velog.io/@xiu0327
+👩‍💻 blog : https://adaptive-hen-d10.notion.site/77f9c81b78af46449e629f11759d3ed6
 
 <!--
 **xiu0327/xiu0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
